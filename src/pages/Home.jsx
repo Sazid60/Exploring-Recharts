@@ -1,8 +1,17 @@
+import ChartComponent from "../components/ChartComponent";
 
 const Home = () => {
     return (
-        <div>
-            <h1>Home Page</h1>
+        <div className=" min-h-screen flex justify-center items-center"
+            style={{
+                backgroundImage: 'url("/BG.jpg")',
+                backgroundSize: 'cover',
+                backgroundPosition: 'center',
+                backgroundRepeat: 'no-repeat' 
+            }}
+        >
+
+            <ChartComponent />
         </div>
     );
 };
