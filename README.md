@@ -1,8 +1,9 @@
-# React + Vite
+#### Website URL: [https://exploring-recharts.vercel.app/](https://exploring-recharts.vercel.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Used Technologies
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**
+- **Real Loading Spinner**
+- **ReCharts**
+- **Tailwind CSS**
+- **DaisyUI**
